@@ -51,3 +51,7 @@ difference() {
       }
     }
 }
+//translate([0,85,9])
+//  rotate([0,0,-90])
+//  color([0,0.7,0,0.6])
+//  import("rPi2 01.stl");
